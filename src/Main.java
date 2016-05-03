@@ -10,4 +10,8 @@ public class Main {
 public static void displayTata(){
 	System.out.println("Tata");
 }
+
+public static void displayToto(){
+	System.out.println("Toto");
+}
 }

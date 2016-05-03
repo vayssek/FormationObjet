@@ -6,4 +6,8 @@ public class Main {
 
 	}
 
+
+public static void displayTata(){
+	System.out.println("Tata");
+}
 }
